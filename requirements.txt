@@ -2,5 +2,7 @@ streamlit
 pandas
 scikit-learn
 joblib
-numpy
+matplotlib
+seaborn
+scipy
 altair
