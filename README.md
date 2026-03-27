@@ -26,7 +26,7 @@ Automated Retention Strategy: Calculates the exact price discount needed to reta
 Market Benchmarking: Compares individual profiles against global loyal customer averages.
 
 Tech Stack:
-Python 3.14
+Python 3.12
 Machine Learning: Scikit-Learn (Random Forest)
 Web Framework: Streamlit
 Data Processing: Pandas & NumPy
